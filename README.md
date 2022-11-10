@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shajid Ahmed</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/whoshajid" target="blank"><img src="https://img.shields.io/twitter/follow/whoshajid?logo=twitter&style=for-the-badge" alt="whoshajid" /></a> </p>
-
 - 🔭 I’m currently working on **Time-management-system-project**
 
 - 💬 Ask me about **javascript,react,vue,PHP,laravel,**
@@ -23,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajid6&show_icons=true&locale=en" alt="shajid6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shajid6&" alt="shajid6" /></p>
+
 

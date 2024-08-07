@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Time-management-system-project**
 
-- 💬 Ask me about **javascript,react,vue,PHP,laravel,**
+- 💬 Ask me about **javascript,react,react native,vue,PHP,laravel,**
 
 - 📫 How to reach me **shajidsaka@.gmail.com**
 
